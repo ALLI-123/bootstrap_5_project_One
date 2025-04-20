@@ -1,0 +1,24 @@
+/* Breakpoint for medium */
+body::before {
+  display: block;
+  content: "";
+
+}
+
+
+#instructors img {
+/*   
+  margin-top: 20px; */
+  width: 130px;
+  background-color: rgb(250,250,250);
+}
+
+@media(min-width: 768px) {
+
+    .news-input {
+
+      width: 50%;
+    }
+
+
+}
